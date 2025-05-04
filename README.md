@@ -86,8 +86,7 @@ python test_model.py
 - Integrate a user-friendly GUI or TTS for accessibility
 
 ## 📄 License
-This project is open-source under the [MIT License](LICENSE).
-
+This project is open-source.
 ## 🙌 Acknowledgements
 - WLASL Dataset authors
 - MediaPipe by Google for hand landmark extraction
