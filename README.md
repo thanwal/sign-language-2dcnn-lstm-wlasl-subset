@@ -88,7 +88,7 @@ python test_model.py
 ## 📄 License
 This project is open-source.
 ## 🙌 Acknowledgements
-- WLASL Dataset authors
+- WLASL Dataset authors 
 - MediaPipe by Google for hand landmark extraction
 
 ---
