@@ -11,7 +11,7 @@ with open("dataset\\WLASL_v0.3_cleaned.json", "r") as f:
     data = json.load(f)
 
 # Create destination folder
-os.makedirs("selected_videos", exist_ok=True)
+os.makedirs("selected_videos",exist_ok=True)
 
 # Set of video_ids to avoid duplicates
 moved_video_ids = set()
@@ -33,3 +33,4 @@ for entry in data:
                     moved_video_ids.add(video_id)
                 else:
                     print(f"Missing file: {video_filename}")
+
