@@ -93,4 +93,4 @@ This project is open-source.
 
 ---
 
-**Author:** [@mrthanwal](https://github.com/thanwal)
+**Author:** [@thanwal](https://github.com/thanwal)
